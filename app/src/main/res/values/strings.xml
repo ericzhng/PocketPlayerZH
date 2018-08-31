@@ -1,0 +1,36 @@
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">PocketPlayer</string>
+
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+
+    <string name="notification_text">Press play to hear the piece!</string>
+
+    <string name="sample_not_found_error">Sample not found!</string>
+
+    <string name="preference_file_key">Score Preferences</string>
+
+    <string name="audio_id">365</string>
+    <string name="audio_title">Title of text, whatever it is, however long</string>
+    <string name="audio_size">13.02 Mb</string>
+
+    <string name="content_play">Play this song</string>
+
+    <string name="download_ads_unsupported">IMA does not support offline ads</string>
+    <string name="channel_name">my-channel</string>
+    <string name="channel_description">Open notification</string>
+    <string name="playback_channel_name">playback</string>
+    <string name="album">Album</string>
+    <string name="filename">Filename</string>
+
+
+    <string name="label_play">Play</string>
+    <string name="label_pause">Pause</string>
+
+    <string name="label_next">Next</string>
+    <string name="label_prev">Previous</string>
+
+    <string name="audio_library">AudioBook Library</string>
+</resources>

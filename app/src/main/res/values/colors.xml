@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryLight">#d4f8d2</color>
+    <color name="colorPrimary">#55d15f</color>
+    <color name="colorPrimaryDark">#28a649</color>
+    <color name="colorAccent">#bf1c1c</color>
+
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#727272</color>
+
+    <color name="icons">#ffffff</color>
+    <color name="divider">#b6b6b6</color>
+
+    <color name="pink">#EC407A</color>
+
+    <color name="top_into_layout_color">#E0E0E0</color>
+    <color name="activity_background_color">#F5F4F4</color>
+
+
+    <color name="white">#F5F4F4</color>
+
+    <color name="button_color">#4C4B49</color>
+
+</resources>

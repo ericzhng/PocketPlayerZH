@@ -1,0 +1,10 @@
+1. add audio focus
+2. add phone call
+3. service connection to show audio control when playing music background
+4. picture in picture
+5. add support for youtube video playing
+6. add support for giving an URL
+7. album categorize more sensible
+8. determine audio and video
+9. customize the audio player
+10. consider lifecycle impact
